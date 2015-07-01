@@ -13,11 +13,11 @@ For example, if my number in the war is 21, and the strategy is +1, then my firs
 
 If the war strategy is +1, then the very bottom person doesn't have a target.
 
-![img/bottom-unknown](img/bottom-unknown)
+![img/bottom-unknown.jpg](img/bottom-unknown.jpg)
 
 The players who have an unassigned target can choose to instead go for their even number, whether it has been attacked or not. (if the strategy was +2, then this would be applicable to the bottom 2 players)
 
-![img/bottom-assigned](img/bottom-assigned)
+![img/bottom-assigned.jpg](img/bottom-assigned.jpg)
 
 Alternatively, you can just wait to see if another base needs cleanup later, or wait to loot toward the end of the war, or hit another target after the 12hr mark. Ideally, in a 30 player war as shown here, 30 would attack 30 first, and if they do not 3-star, then 29 would clean up 30. If 30 3-stars 30, then 29 could choose to also attack 30 for practice or loot, or just wait to see if cleanup is needed later on 28 or 29. In this example, if 30 3-stars 30, then 29 should not attack 29 during the first 12 hours because that target is assigned to someone else. Once 28 has a chance to attack 29, then it becomes open to attack.
 
